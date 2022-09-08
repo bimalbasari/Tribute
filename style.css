@@ -1,0 +1,80 @@
+*{
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+
+}
+main{
+    border: 1px double rgb(58, 58, 80);
+    border-radius: 15px;
+}
+.heading
+{
+    background-color: rgb(186, 186, 245);
+    color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    margin:20px  25px;
+}
+
+.heading2{
+
+    background-color: rgb(165, 208, 233);
+    text-align: center;
+    color: rgb(208, 87, 176);
+   
+   
+
+}
+
+
+.picture{
+    height: 150px;
+    width: auto;
+    float: left;
+    margin: 10px;
+}
+
+.airtcal{
+    color: brown;
+    font-style: italic;
+    font-size: x-large;
+    text-indent: 1cm;
+    text-align:left;
+    text-transform: capitalize;
+    margin: 10px;
+    padding: 10px;
+}
+
+.airtical2{
+    clear: left;
+}
+
+.data{
+    background-color: rgb(217, 228, 102);
+    color: rgb(176, 12, 99);
+    border-radius: 5px;
+}
+
+footer{
+    background-color: black;
+    border: 2px solid blue;
+    color: aliceblue;
+    font-size: x-small;
+    text-align: center;
+    padding: 2px;
+    height:10px ;
+    width:fit-content;
+    margin: 2px auto;
+
+}
+a{
+    color: aliceblue;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: antiquewhite;
+    color: blue;
+}
